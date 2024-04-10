@@ -1,0 +1,42 @@
+[
+ {
+  "first": "Sidney",
+  "last": "Crosby",
+  "age": 36,
+  "gender": "male",
+  "favsong": "Desperate Man",
+  "favfood": "steak"
+ },
+ {
+  "first": "Nathan",
+  "last": "MacKinnon",
+  "age": 29,
+  "gender": "male",
+  "favsong": "Dreams",
+  "favfood": "tacos"
+ },
+ {
+  "first": "Nelly",
+  "last": "Korda",
+  "age": 26,
+  "gender": "female",
+  "favsong": "Electric Feel",
+  "favfood": "burritos"
+ },
+ {
+  "first": "Paige",
+  "last": "Spiranic",
+  "age": 29,
+  "gender": "female",
+  "favsong": "Kansas City",
+  "favfood": "salads"
+ },
+ {
+  "first": "Connor",
+  "last": "McDavid",
+  "age": 27,
+  "gender": "male",
+  "favsong": "Mr. Brightside",
+  "favfood": "club sandwich"
+ }
+]
